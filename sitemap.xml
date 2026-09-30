@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://peakachieversacademy.co.ke/</loc>
-    <lastmod>2026-09-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://peakachieversacademy.co.ke/mathematics.html</loc>
-    <lastmod>2026-09-29</lastmod>
-  </url>
-  <url>
-    <loc>https://peakachieversacademy.co.ke/integrated-science.html</loc>
-    <lastmod>2026-09-29</lastmod>
-  </url>
+<url><loc>https://peakachieversacademy.co.ke/</loc><lastmod>2026-09-30</lastmod><priority>1.0</priority></url>
+<url><loc>https://peakachieversacademy.co.ke/mathematics.html</loc><lastmod>2026-09-30</lastmod></url>
+<url><loc>https://peakachieversacademy.co.ke/integrated-science.html</loc><lastmod>2026-09-30</lastmod></url>
+<url><loc>https://peakachieversacademy.co.ke/chemistry.html</loc><lastmod>2026-09-30</lastmod></url>
+<url><loc>https://peakachieversacademy.co.ke/resources/Peak_Achievers_Grade_9_Mathematics_FREE_SAMPLE.pdf</loc></url>
+<url><loc>https://peakachieversacademy.co.ke/resources/Peak_Achievers_Grade_9_Mathematics_Topical_QA_Book2_FREE_SAMPLE.pdf</loc></url>
+<url><loc>https://peakachieversacademy.co.ke/resources/Peak_Achievers_Grade_9_Mathematics_Quick_Revision_Pack_FREE.pdf</loc></url>
+<url><loc>https://peakachieversacademy.co.ke/resources/Peak_Achievers_Integrated_Science_BOOK1_FREE_SAMPLE.pdf</loc></url>
+<url><loc>https://peakachieversacademy.co.ke/resources/Peak_Achievers_Integrated_Science_BOOK2_FREE_SAMPLE.pdf</loc></url>
+<url><loc>https://peakachieversacademy.co.ke/resources/Peak_Achievers_Grade10_Chemistry_FREE_PACK_1.pdf</loc></url>
+<url><loc>https://peakachieversacademy.co.ke/resources/Peak_Achievers_Grade10_Chemistry_FREE_PACK_2.pdf</loc></url>
 </urlset>
